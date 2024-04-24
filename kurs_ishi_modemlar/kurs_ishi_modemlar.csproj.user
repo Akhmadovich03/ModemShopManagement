@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bosh_menyu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Firmalar_jadvali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kirish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Jadvallar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modemlar_jadvali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Routerlar_jadvali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Switchlar_jadvali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

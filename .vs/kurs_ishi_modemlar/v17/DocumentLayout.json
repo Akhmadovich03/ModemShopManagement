@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My works\\C# works\\kurs_ishi_modemlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\switchlar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\switchlar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\routerlar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\routerlar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\modemlar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\modemlar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\firmalar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\firmalar_jadvali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\jadvallar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\jadvallar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|c:\\my works\\c# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\bosh_menyu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADAA548-2959-423D-828E-5AB220E0C73D}|kurs_ishi_modemlar\\kurs_ishi_modemlar.csproj|solutionrelative:kurs_ishi_modemlar\\bosh_menyu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Switchlar_jadvali.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Switchlar_jadvali.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Switchlar_jadvali.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Switchlar_jadvali.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Switchlar_jadvali.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T17:50:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routerlar_jadvali.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Routerlar_jadvali.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Routerlar_jadvali.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Routerlar_jadvali.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Routerlar_jadvali.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAwLAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T17:50:07.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Program.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Program.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Program.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T17:49:47.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jadvallar.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Jadvallar.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Jadvallar.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Jadvallar.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Jadvallar.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T17:49:12.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Firmalar_jadvali.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Firmalar_jadvali.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Firmalar_jadvali.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Firmalar_jadvali.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Firmalar_jadvali.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAGwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T17:48:58.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modemlar_jadvali.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Modemlar_jadvali.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Modemlar_jadvali.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Modemlar_jadvali.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Modemlar_jadvali.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-29T14:40:09.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bosh_menyu.cs",
+              "DocumentMoniker": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Bosh_menyu.cs",
+              "RelativeDocumentMoniker": "kurs_ishi_modemlar\\Bosh_menyu.cs",
+              "ToolTip": "C:\\My works\\C# works\\kurs_ishi_modemlar\\kurs_ishi_modemlar\\Bosh_menyu.cs",
+              "RelativeToolTip": "kurs_ishi_modemlar\\Bosh_menyu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T17:48:22.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
